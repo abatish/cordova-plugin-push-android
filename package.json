@@ -14,7 +14,6 @@
   "repository": "github:havesource/cordova-plugin-push",
   "keywords": [
     "ecosystem:cordova",
-    "cordova-ios",
     "cordova-android",
     "cordova-windows",
     "cordova-browser"
@@ -41,7 +40,6 @@
       "1.0.0": {
         "cordova": ">=9.0.0",
         "cordova-android": ">=8.0.0",
-        "cordova-ios": ">=5.1.1"
       }
     }
   },
@@ -49,7 +47,6 @@
   "cordova": {
     "id": "cordova-plugin-push-android",
     "platforms": [
-      "ios",
       "android",
       "windows",
       "browser"
