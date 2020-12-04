@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-push-android",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Register and receive push notifications.",
   "scripts": {
     "build": "babel src/js --out-dir www",
@@ -37,7 +37,7 @@
   },
   "engines": {
     "cordovaDependencies": {
-      "1.0.0": {
+      "1.0.1": {
         "cordova": ">=9.0.0",
         "cordova-android": ">=8.0.0"
       }
